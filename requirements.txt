@@ -2,4 +2,5 @@ pypdf
 langchain
 chromadb
 pytest
-
+ollama
+llama3.1 model
