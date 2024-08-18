@@ -9,3 +9,4 @@ To run
 6. run test_rag.py ( Optional ) to see how the model is performing [Unit Testing]
 
 - Note: It is running fully on local machine hence it build with privacy + The OpenAI key you provided is exceeded in limit.
+- Additional Improvements: Making a better UI using Streamlit
