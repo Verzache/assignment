@@ -1,2 +1,1 @@
-# assignment
-assignment for Technokart Consultancy Services.
+# rag-tutorial-v2
