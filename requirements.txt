@@ -3,4 +3,4 @@ langchain
 chromadb
 pytest
 ollama
-llama3.1 model
+llama3.1
